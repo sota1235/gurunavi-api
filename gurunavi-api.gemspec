@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'gurunavi/api/version'
+require 'version'
 
 Gem::Specification.new do |spec|
   spec.name          = "gurunavi-api"
-  spec.version       = Gurunavi::Api::VERSION
+  spec.version       = GurunaviApi::VERSION
   spec.authors       = ["sota1235"]
   spec.email         = ["sota1235@gmail.com"]
 

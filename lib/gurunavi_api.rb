@@ -1,5 +1,7 @@
 require "version"
+require 'rest-client'
 
 module GurunaviApi
-  # Your code goes here...
+  class GurunaviApi
+  end
 end
