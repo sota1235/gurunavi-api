@@ -1,0 +1,1 @@
+require 'gurunavi/api'
