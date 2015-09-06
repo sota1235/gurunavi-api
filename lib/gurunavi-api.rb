@@ -1,1 +1,1 @@
-require 'gurunavi/api'
+require 'gurunavi_api'
